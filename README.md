@@ -1,6 +1,6 @@
-#API Example
+# API Example
 
-##Dependecies
+## Dependecies
 * `nodemon` needs to be installed globally
 
 ## Scripts
